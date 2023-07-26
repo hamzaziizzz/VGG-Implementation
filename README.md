@@ -1,8 +1,11 @@
 # VGG Implementation
 
 <a href="https://medium.com/@hamzaziizzz/mastering-vgg-from-scratch-a-journey-of-learning-and-growth-in-computer-vision-ada74a72327f">
-  <img src="img/Medium-Logo.png">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-Read%20Article-white?logo=medium&logoColor=black&labelColor=white&color=grey">
 </a>
+
+<br>
+<br>
 
 Welcome to the VGG (Visual Geometry Group) implementation repository! Here, you'll find an implementation of the VGG architecture using TensorFlow. VGG is a popular deep convolutional neural network architecture known for its simplicity and strong performance in image classification tasks.
 
